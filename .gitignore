@@ -1,0 +1,8 @@
+contracts/.env
+contracts/cache
+contracts/out
+contracts/broadcast
+contracts/lib
+
+backend/node_modules
+backend/.env
